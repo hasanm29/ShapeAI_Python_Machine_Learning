@@ -9,8 +9,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <li>Python
 <li>Machine Learning
 <br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+anyone with zero experience on programming can learn.<br>
 Follow SHAPEAI on:
 <li><a href=
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
